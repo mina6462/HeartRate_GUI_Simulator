@@ -5,5 +5,9 @@
   Furthermore, using the data collected, a servo motor was developed to match the estimated movements based on various numerical methods to allow for a greater understanding of prediction methods (Laplace estimations, Binomial predictions, etc)
 
   As team lead for this project, various roles were delegated, and structured weekly meetings were held. Meeting minutes along with structuring code in a "design, code, review" process were critical. Attached documents include the code, the final report, as well as various key images that display the GUI.
+
+
+<img width="160" height="115" alt="HeartBeat GUI Layout" src="https://github.com/user-attachments/assets/9b864fa6-7038-4192-aa91-5f5c727cf5ce" />
+
   
 portfolio is a work in progress :)
